@@ -54,6 +54,12 @@ nav a:active {
   padding: 1rem;
 }
 
+#links {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+
 #home {
   background-color: cornsilk;
 }
